@@ -7,14 +7,7 @@ featured-img: Xiaoqing Li.jpg
 permalink: /
 ---
 
-Andrew Stiefel is a composer and sound artist whose music explores the intersections between written and recorded sound. 
+Xiaoqing Li is a musicologist, educator, performer, and translator.
 
-An experienced field recordist, he has worked with scientists at the Cornell Lab of Ornithology and has contributed field recordings to the Macaulay Library. In 2012 he was Artist in Residence at Crater Lake National Park and spent several weeks recording and documenting the park's ecosystems. Since then his work has centered around documenting and interpreting the changing soundscapes of the Pacific Northwest.
-
-His works have been performed by the Seatle Symphony, Eighth Blackbird, Third Angle New Music, Prism Saxophone Quartet, and soprano Estelí Gomez, among others. Awards include the Grand Prize in the Zvi Zeitlin Memorial International Composers Competition; fellowships at the University of Oregon and Brevard Music Festival; and grants and commissions from New Music USA and Third Angle New Music. 
-
-Previously, he co-founded and performed with the new music ensemble Sound of Late. His programs as curator have been called “intriguing” and “adventurous” (Oregon ArtsWatch) and have been recognized for their "singular focus on underrepresented composers” (Willamette Weekly). 
-
-He studied viola with Dr. Kathryn Steely and Dr. Leslie Straka and composition with Dr. Robert Kyr, Dr. David Crumb, and Dr. Edward Taylor.
-
-He lives near Seattle.
+She was born in Hebei province, China. She began learning Latin dance and guzheng at 6 and has been an instructor for 10 years. Her over twenty years of musical practice, encompassing performance and teaching, shaped her long-standing research interests in community music, music and politics, gender and women’s studies, performance studies, and East Asian cultural studies.
+Xiaoqing  received a B.A. in music performance from Sichuan Normal University (SNU) in 2018 and earned an M.A. in Musicology & Dance Studies (Major: Music Archeology) from the Central Conservatory of Music (CCOM) in 2023. 

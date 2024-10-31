@@ -1,23 +1,20 @@
 #SITE CONFIGURATION
 
-title: Andrew Stiefel
-description: Composer
-repository: "andrewstiefel/music-portfolio"
+title: Xiaoqing Li
+description: Musicologist,Educator, Performer
+repository: "XiaoqingLi/music-portfolio"
 baseurl: 
-url: "http://andrewstiefel.com"
+url: "https://xiaoqingli96.github.io/music-portfolio/"
 
 google_tag_manager: GTM-P7PZFVP
 
 # SEO PLUGIN
 
 social:
-  name: Andrew Stiefel
+  name: Xiaoqing Li
   links:
-    - https://www.facebook.com/andrewstiefel
-    - https://twitter.com/andrewstiefel
     - https://www.instagram.com/andrewstiefel
     - https://www.youtube.com/user/andrewstiefel
-    - https://www.linkedin.com/in/andrewstiefel
     - https://github.com/andrewstiefel
     
 #THEME SETTINGS

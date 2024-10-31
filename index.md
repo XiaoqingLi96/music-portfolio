@@ -3,7 +3,7 @@ layout: default
 headline: About
 description: Xiaoqing Li is a musicologist, performer, educator, and translator 
 summary: Xiaoqing Li is a musicologist, performer, educator, and translator living in Beijing and Tallahassee. 
-featured-img: andrew-stiefel-viola.jpg
+featured-img: Xiaoqing Li.jpg
 permalink: /
 ---
 
